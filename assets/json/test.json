@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "name": "Clams",
+      "id": "178575768",
+      "img": "asset/img/ex_box.jpg"
+    },
+    {
+      "name": "Cod",
+      "id": "178745768",
+      "img": "asset/img/ex_box.jpg"
+    }
+  ],
+  "product": [
+    {
+      "name": "Fresh Littleneck Clams",
+      "id": "196456312",
+      "description": "Fresh Littleneck Clams, Live-in-shell, wild harvest, product of Canada or U.S.A., sold in one pound increments.  Approx 10-12 clams per pound.",
+      "price": "None",
+      "stock": "Out of stock and unavailable",
+      "categoryId": "178575768"
+    },
+    {
+      "name": "Fogo Island Cod",
+      "id": "74532786",
+      "description": "Sustainably caught in a small artisanal fishery off the coast of Fogo Island, Newfoundland.  Wild-caught, skin-on, Atlantic cod. Product of Canada. Sold per pound, portions are cut in varying sizes.  Typically 1-3 portions per pound.",
+      "price": "None",
+      "stock": "Out of stock and unavailable",
+      "categoryId": "178745768"
+    }
+  ]
+
+}
